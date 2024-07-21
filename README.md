@@ -30,5 +30,6 @@ To use the project, run the `main.py` script with the appropriate arguments:
    ```bash
    python main.py --dataset ayoubkirouane/Algerian-Darija --output cleaned_dataset.csv
    ```
+**NOTE** : the scpipt will target the the `text` column of the dataset , so make sure to have  it in your dataset.
 
 This will clean the dataset and save it to the specified output path.
